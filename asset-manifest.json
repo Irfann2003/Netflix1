@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://github.com/Irfann2003/Netflix1.git/static/css/main.d6b9aa6e.css",
+    "main.js": "https://github.com/Irfann2003/Netflix1.git/static/js/main.8d85ffe7.js",
+    "static/media/money heist1.jpg": "https://github.com/Irfann2003/Netflix1.git/static/media/money heist1.3254bb9d77635d117675.jpg",
+    "static/media/background1.png": "https://github.com/Irfann2003/Netflix1.git/static/media/background1.fd4f04905b430860fb46.png",
+    "index.html": "https://github.com/Irfann2003/Netflix1.git/index.html",
+    "main.d6b9aa6e.css.map": "https://github.com/Irfann2003/Netflix1.git/static/css/main.d6b9aa6e.css.map",
+    "main.8d85ffe7.js.map": "https://github.com/Irfann2003/Netflix1.git/static/js/main.8d85ffe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6b9aa6e.css",
+    "static/js/main.8d85ffe7.js"
+  ]
+}
